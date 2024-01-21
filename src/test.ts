@@ -1,4 +1,4 @@
 export const person = {
-  name: "John",
+  name: "John Doe",
   age: 30,
 };
