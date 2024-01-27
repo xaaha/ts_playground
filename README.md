@@ -1,4 +1,4 @@
 # ts_playground
 
 - install: `pnpm install`
-- Run `pnpm start`
+- Run `pnpm bs` to run index.ts
